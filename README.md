@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I’m Emily Tew 💛
+---
 
-<!--
-**Emily-Tew/Emily-Tew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💜 Featured Project
 
-Here are some ideas to get you started:
+- [Self-Balancing Motorcycle](https://github.com/emily-tew/self-balancing-motorcycle)  
+A miniature motorcycle that uses a weighted flywheel, sensor feedback, and real-time control logic to stay upright. Designed and built from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💙 Tools I use
+
+- **C++**
+- **Arduino**
+- **AutoCAD**  
+- **Git & GitHub**  
+- **Soldering irons, breadboards, and PASSION**
+
+---
+
+💚 [emilytew.dev](https://emilytew.dev)
